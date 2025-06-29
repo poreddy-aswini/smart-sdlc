@@ -123,26 +123,22 @@ python app/main.py
 
 ## 👥 Team
 
-**Team Name:** Team Innovators
-**Team ID:** LTVIP2025TMID31167
-**Institution:** G. Pullaiah College of Engineering and Technology
+**Team Name:** Tech Titans
+**Team ID:** LTVIP2025TMID32342
+**Institution:** SIDDARTHA INSTITUTE OF SCIENCE AND TECHNOLOGY.
 
-* 👩‍💻 **C. Keerthana Kiran** – SDLC architecture, classifier, test case generator, bug fixer, UI design
-* 👨‍💻 **Charan Katkam** – Code generator, code summarizer, chatbot development, documentation
+* 👩‍💻 **POREDDY ASWINI** – SDLC architecture, classifier, test case generator, bug fixer, UI design
+* 👨‍💻 **Nagendra babu** – Code generator, code summarizer, chatbot development, documentation
 
 ---
 
 ## 📎 Important Links
 
-* 🔗 GitHub Repo: [SmartSDLC on GitHub]*(https://github.com/cherry-12345/SmartSDLC-AI-Enhanced-Software-Development-Lifecycle)*
+* 🔗 GitHub Repo: [SmartSDLC on GitHub]*(https://github.com/poreddy-aswini/smart-sdlc)*
 * 🔗 Live Colab Demo: *Insert your Colab link here*
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-See the [LICENSE](LICENSE) file for details.
 
 ---
 
